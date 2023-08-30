@@ -16,7 +16,7 @@
 <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thanishaj24&show_icons=true&locale=en&layout=compact" alt="thanishaj24" /></p>
 </div>
-<div align="left" style="margin-top:50px">
+<div align="center">
 <p><img  src="https://github-readme-stats.vercel.app/api?username=thanishaj24&show_icons=true&locale=en" alt="thanishaj24" /></p>
 </div>
 <div>
