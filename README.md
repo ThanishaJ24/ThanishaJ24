@@ -2,7 +2,9 @@
 <h3 align="center">A passionate Softwear Engineer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanishaj24&label=Profile%20views&color=0e75b6&style=flat" alt="thanishaj24" /> </p>
 
-<img align="right" alt="coding" width="480"  src="https://user-images.githubusercontent.com/74038190/248884004-af212da4-8588-4d7c-8400-16e56f2746a0.gif">
+<div id="header" align="center">
+  <img  alt="coding" width="480"  src="https://user-images.githubusercontent.com/74038190/248884004-af212da4-8588-4d7c-8400-16e56f2746a0.gif">
+</div>
 
 - 🌱 I’m currently learning **ReactJs**
 
@@ -17,7 +19,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thanishaj24&show_icons=true&locale=en&layout=compact" alt="thanishaj24" />
 
-
+### :fire: My Stats :
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=thanishaj24&show_icons=true&locale=en" alt="thanishaj24" />
 
 
