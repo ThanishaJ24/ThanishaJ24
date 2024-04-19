@@ -6,7 +6,6 @@
   <img  alt="coding" width="480"  src="https://user-images.githubusercontent.com/74038190/248884004-af212da4-8588-4d7c-8400-16e56f2746a0.gif">
 </div>
 
-- 🌱 I’m currently learning **ReactJs**
 
 - 📫 How to reach me: **thanishaj24@gmail.com**
 
